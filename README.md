@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ighmazcool@gmail.com**
 
-- ⚡ Fun fact **I love Riding Bikes 🏍️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
