@@ -15,8 +15,9 @@
     
  - 📫  Open Source Advocate
     
- - 📫 I post content on [https://twitter.com/ighmaz_js)
+ - 📫  Content Creator
  
+ - 📫  JavaScript is ❤️ 
  - 📫  Open To Work
     
 <section align="center">
