@@ -20,10 +20,10 @@
     
 
 <section align="center">
-    <h3>Connect with me on:</h3>
+    <h3>Connect with me:</h3>
     <div>
 
-        <a href="https://www.linkedin.com/in/ighmaz-tawheed-891394140/"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/linkedin.svg" alt="LinkedIn"></a>
+        <a href="[https://www.linkedin.com/in/ighmaz-tawheed-891394140/]"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/linkedin.svg" alt="LinkedIn"></a>
         &nbsp;
         <a href="mailto://ighmazcool@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/gmail.svg" alt="Email"></a>
         &nbsp;
