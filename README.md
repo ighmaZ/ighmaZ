@@ -1,8 +1,6 @@
 
 ![giphy (1)](https://user-images.githubusercontent.com/44942623/194906313-d8fadb35-0d6f-420f-a184-7d66fe93c5c9.gif)
 
-![giphy](https://user-images.githubusercontent.com/44942623/194906344-16c22b64-734e-4dd6-a673-f83ea17be494.gif)
-
 
 <table>
   <tr>
