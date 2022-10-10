@@ -28,13 +28,13 @@
         <a href="https://twitter.com/ighmaz_js"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/twitter.svg" alt="Twitter"></a>
         &nbsp;
 <!--         <a href="https://twitch.tv/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaz/ighmaz/main/img/twitch.svg" alt="Twitch"></a> -->
-        <a href="https://codewars.com/users/khanhtranngoccva"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/codewars.svg" alt="Codewars"></a>
+        <a href="https://codewars.com/users/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/codewars.svg" alt="Codewars"></a>
     </div>
 </section>
     
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ighmaz&show_icons=true&locale=en&layout=compact" alt="ighmaz" /></p>
-    <h3 align="left">Support:</h3>
+    <h3 align="left">Support Me:</h3>
     
        
     
