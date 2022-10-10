@@ -17,7 +17,7 @@
  - 📫  Open To Work
     
 <section align="center">
-    <h3>Connect with me on:</h3>
+    <h3>Connect with me :</h3>
     <div>
 <!--       <a href="https://codepen.io/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/codepen.svg" alt="CodePen"></a>
         &nbsp; -->
