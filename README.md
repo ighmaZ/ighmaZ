@@ -48,5 +48,16 @@
   </tr>
 </table>
 
+<section align="center">
+    <h3>Personal stats:</h3>
+    <div>
+        <img width="400px" src="https://www.codewars.com/users/ighmaz/badges/large" alt="ighmaz's Codewars stats">
+    </div>
+    <div>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ighmaZ" alt="ighmaz's GitHub stats"/>
+        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ighmaZ&" alt="ighmaz's GitHub streak"/>
+    </div>
+</section>
+
 
 
