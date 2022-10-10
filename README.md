@@ -13,6 +13,8 @@
  - 📫  Open Source Advocate
     
  - 📫 I post content on [https://twitter.com/ighmaz_js)
+ 
+ - 📫  Open To Work
 
  - 📫  reach me **ighmazcool@gmail.com**
     
