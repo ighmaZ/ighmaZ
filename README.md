@@ -51,7 +51,7 @@
 <section align="center">
     <h3> My stats:</h3>
     <div>
-https://github-readme-codewars-stats.herokuapp.com/api/?ighmaz=vanhaaggen&badges/large&colormode=dark_mode
+
     </div>
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ighmaZ" alt="ighmaz's GitHub stats"/>
