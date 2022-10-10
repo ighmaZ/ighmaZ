@@ -21,9 +21,9 @@
     <div>
 <!--       <a href="https://codepen.io/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/codepen.svg" alt="CodePen"></a>
         &nbsp; -->
-        <a href="https://linkedin.com/in/khanhtranngoccva"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/linkedin.svg" alt="LinkedIn"></a>
+        <a href="https://linkedin.com/in/ighmaz-tawheed-891394140/"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/linkedin.svg" alt="LinkedIn"></a>
         &nbsp;
-        <a href="mailto://khanhtranngoccva@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/gmail.svg" alt="Email"></a>
+        <a href="mailto://ighmazcool@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/gmail.svg" alt="Email"></a>
         &nbsp;
         <a href="https://twitter.com/ighmaz_js"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/twitter.svg" alt="Twitter"></a>
         &nbsp;
