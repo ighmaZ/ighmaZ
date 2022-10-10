@@ -5,7 +5,7 @@
 ### Hi there 👋 , I am Ighmaz 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
-- 📝 I regularly write articles on [https://geekyighmaz.hashnode.dev/](https://geekyighmaz.hashnode.dev/)
+- 📝 I regularly post content on [https://twitter.com/ighmaz_js)
 
 - 📫 How to reach me **ighmazcool@gmail.com**
 
