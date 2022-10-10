@@ -11,6 +11,7 @@
     
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
+![icons8-homer-simpson](https://user-images.githubusercontent.com/44942623/194917974-486c5ee6-b78c-42a2-bd45-9892e0b8db70.gif)
 
     
  - 📫  Open Source Advocate
