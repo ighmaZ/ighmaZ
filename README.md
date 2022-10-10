@@ -49,7 +49,7 @@
 </table>
 
 <section align="center">
-    <h3>Personal stats:</h3>
+    <h3> My stats:</h3>
     <div>
         <img width="400px" src="https://www.codewars.com/users/ighmaz/badges/large" alt="ighmaz's Codewars stats">
     </div>
