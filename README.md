@@ -40,7 +40,7 @@
     
   </td>
     <td>
-      <a href="https://app.daily.dev/ighmaz"><img src="https://github.com/ighmaZ/ighmaZ/blob/master/devcard.svg" width="400" alt="ighmaz's Dev Card"/></a>
+      <a href="https://app.daily.dev/ighmaz"><img src="https://github.com/ighmaZ/ighmaZ/blob/main/devcard.svg" width="400" alt="ighmaz's Dev Card"/></a>
       
         
   </tr>
