@@ -5,15 +5,15 @@
 ### Hi there 👋 , I am Ighmaz 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
-- 📝 I regularly post content on [https://twitter.com/ighmaz_js)
+- 📝 I post content on [https://twitter.com/ighmaz_js)
 
-- 📫 How to reach me **ighmazcool@gmail.com**
+- 📫  reach me **ighmazcool@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ighmaz_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ighmaz_js" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ighmaz tawheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ighmaz tawheed" height="30" width="40" /></a>
-<a href="https://hashnode.com/@geekyighmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geekyighmaz" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Support:</h3>
