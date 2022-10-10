@@ -19,15 +19,20 @@
  - 📫  reach me **ighmazcool@gmail.com**
     
 
+<section align="center">
+    <h3>Connect with me on:</h3>
+    <div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ighmaz_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ighmaz_js" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ighmaz tawheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ighmaz tawheed" height="30" width="40" /></a>
-
-</p>
-
-
+        <a href="https://www.linkedin.com/in/ighmaz-tawheed-891394140/"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/linkedin.svg" alt="LinkedIn"></a>
+        &nbsp;
+        <a href="mailto://ighmazcool@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/gmail.svg" alt="Email"></a>
+        &nbsp;
+        <a href="https://twitter.com/ighmaz_js"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/twitter.svg" alt="Twitter"></a>
+        &nbsp;
+    
+        <a href="https://www.codewars.com/users/Ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/codewars.svg" alt="Codewars"></a>
+    </div>
+</section>
     
     
 
