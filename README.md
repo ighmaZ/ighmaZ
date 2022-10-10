@@ -4,7 +4,7 @@
       
 ### Hi there 👋 , I am Ighmaz 
 
-     <br/>
+    
     
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
@@ -27,12 +27,11 @@
 
 <h3 align="left">Support:</h3>
     
-     <br/>
-    
+       
     
 <p><a href="https://www.buymeacoffee.com/ighmazcoolD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ighmazcoolD" /></a></p><br><br>
     
-     <br/>
+    
     
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ighmaz&show_icons=true&locale=en&layout=compact" alt="ighmaz" /></p>
