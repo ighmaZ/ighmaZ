@@ -19,11 +19,12 @@
  - 📫  Content Creator
  
  - 📫  JavaScript is ❤️ 
- - 📫  Open To Work
+    
+      <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/ighmaz_js?label=Friends%20on%20Twitter&style=social"> 
     
 <section align="center">
     <h3>Connect with me :</h3>
-    <div>
+    <div> 
 <!--       <a href="https://codepen.io/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaZ/ighmaZ/main/img/codepen.svg" alt="CodePen"></a>
         &nbsp; -->
         <a href="https://linkedin.com/in/ighmaz-tawheed-891394140/"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/linkedin.svg" alt="LinkedIn"></a>
@@ -34,17 +35,22 @@
         &nbsp;
 <!--         <a href="https://twitch.tv/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/ighmaz/ighmaz/main/img/twitch.svg" alt="Twitch"></a> -->
 <!--         <a href="https://codewars.com/ighmaz"><img width="30px" height="30px" src="https://raw.githubusercontent.com/khanhtranngoccva/khanhtranngoccva/main/img/codewars.svg" alt="Codewars"></a> -->
-    </div>
+    </div>        
 </section>
     
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ighmaz&show_icons=true&locale=en&layout=compact" alt="ighmaz" /></p>
+
     <h3 align="left">Support Me:</h3>
     
        
     
 <p><a href="https://www.buymeacoffee.com/ighmazcoolD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ighmazcoolD" /></a></p><br><br>
     
+      
+
+
+  
   </td>
     <td>
       <a href="https://app.daily.dev/ighmaz"><img src="https://github.com/ighmaZ/ighmaZ/blob/main/devcard.svg" width="400" alt="ighmaz's Dev Card"/></a>
