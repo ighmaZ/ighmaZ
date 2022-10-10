@@ -4,10 +4,17 @@
       
 ### Hi there 👋 , I am Ighmaz 
 
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
-- 📝 I post content on [https://twitter.com/ighmaz_js)
 
-- 📫  reach me **ighmazcool@gmail.com**
+    
+ - 📫  Open Source Enthusiast
+    
+ - 📫 I post content on [https://twitter.com/ighmaz_js)
+
+ - 📫  reach me **ighmazcool@gmail.com**
+    
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
