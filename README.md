@@ -51,10 +51,10 @@
 <section align="center">
     <h3> My stats:</h3>
     <div>
-   <img width="400px" src="https://www.codewars.com/users/ighmaz/badges/large"
+   <img width="400px" src="https://www.codewars.com/users/Ighmaz/badges/large"
     </div>
     <div>
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=IghmaZ" alt="ighmaz's GitHub stats"/>
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ighmaZ" alt="ighmaz's GitHub stats"/>
         <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ighmaZ&" alt="ighmaz's GitHub streak"/>
     </div>
 </section>
