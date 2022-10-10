@@ -40,7 +40,7 @@
     <td>
       <a href="https://app.daily.dev/ighmaz"><img src="https://api.daily.dev/devcards/06b50155402645f9b06e9e01e9924c30.png?r=i8m" width="400" alt="ighmaz's Dev Card"/></a>
       
-         </td>
+        
   </tr>
 </table>
 
