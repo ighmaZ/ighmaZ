@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-  <td valign="center">
+  <td align="center">
       
 ### Hi there 👋 , I am Ighmaz 
 
