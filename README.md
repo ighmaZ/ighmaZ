@@ -12,7 +12,7 @@
     
     
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
 
 
     
