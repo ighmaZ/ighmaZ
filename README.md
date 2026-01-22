@@ -12,15 +12,11 @@
     
     
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;TypeScript+Fan+Boy;Exploring+Web3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+web3-Developer;;building+DeFi+Apps)](https://git.io/typing-svg)
 
 
     
  - 📫  Open Source Advocate
-    
- - 📫  Content Creator
- 
- - 📫  JavaScript is ❤️ 
     
       <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/ighmaz_js?label=Friends%20on%20Twitter&style=social"> 
     
