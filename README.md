@@ -18,7 +18,7 @@
     
  - 📫  Open Source Advocate
     
-      <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/ighmaz_js?label=Friends%20on%20Twitter&style=social"> 
+      <img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/ighmaz_js?label=Friends%20on%20X&style=social"> 
     
 <section align="center">
     <h3>Connect with me :</h3>
@@ -59,7 +59,6 @@
     <div>
    <img width="400px" src="https://www.codewars.com/users/Ighmaz/badges/large"
   
-      </section>
 
 
 
