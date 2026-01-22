@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ighmaz&show_icons=true&locale=en&layout=compact" alt="ighmaz" /></p>
 
 
-<p><a href="https://www.buymeacoffee.com/ighmazcoolD"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ighmazcoolD" /></a></p><br><br>
+
     
       
 
@@ -60,8 +60,7 @@
    <img width="400px" src="https://www.codewars.com/users/Ighmaz/badges/large"
     </div>
     <div>
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ighmaZ" alt="ighmaz's GitHub stats"/>
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighmaz&show_icons=true&theme=github_dark&hide_border=true)
+       
 
     </div>
       </section>
