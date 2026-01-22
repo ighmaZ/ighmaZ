@@ -61,7 +61,8 @@
     </div>
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ighmaZ" alt="ighmaz's GitHub stats"/>
-        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ighmaZ&" alt="ighmaz's GitHub streak"/>
+        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=ighmaz&theme=dark" />
+
     </div>
       </section>
 
