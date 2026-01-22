@@ -58,11 +58,7 @@
     <h3> My stats:</h3>
     <div>
    <img width="400px" src="https://www.codewars.com/users/Ighmaz/badges/large"
-    </div>
-    <div>
-       
-
-    </div>
+  
       </section>
 
 
