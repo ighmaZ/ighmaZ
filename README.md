@@ -12,7 +12,7 @@
     
     
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+web3-Developer;;building+DeFi+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web3+Developer;;building+DeFi+Apps)](https://git.io/typing-svg)
 
 
     
